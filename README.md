@@ -13,3 +13,11 @@ A building is only as strong as its foundation :bricks:. The fundamentals, the n
 * Pandas
 * Numpy
 * Scikitlearn
+  * SimpleImputer
+  * KNNImputer
+  * LabelEncoder
+  *  OneHotEncoder 
+  *  ColumnTransformer
+  *  train_test_split
+  *  MinMaxScaler
+  *  StandardScalerk
