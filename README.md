@@ -8,8 +8,8 @@ A building is only as strong as its foundation :bricks:. The fundamentals, the n
 * Functions
 * Data manipulation
 * Data pre-processing and imputing
+* Linear Regression
 * Logistic Regression
-* 
 
 ## :gift: Packages
 * Pandas
