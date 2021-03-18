@@ -10,7 +10,7 @@ A building is only as strong as its foundation :bricks:. The fundamentals, the n
 * Data pre-processing and imputing
 * Linear Regression
 * Logistic Regression
-* Confusion Matric
+* Confusion Matrix
 
 
 ## :gift: Packages
