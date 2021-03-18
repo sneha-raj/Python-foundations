@@ -11,6 +11,7 @@ A building is only as strong as its foundation :bricks:. The fundamentals, the n
 * Linear Regression
 * Logistic Regression
 * Confusion Matrix
+* ROC AUC
 
 
 ## :gift: Packages
